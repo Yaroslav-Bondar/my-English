@@ -1,2 +1,7 @@
 their - их
 as - в качестве
+then - тогда
+these - эти
+those - те
+
+

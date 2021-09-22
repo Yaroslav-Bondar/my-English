@@ -1,0 +1,17 @@
+1 terminated - прекращено
+2 to cause - вызывать
+3 executing - выполнение
+4 could - мог
+5 abort - прервать
+6 completion - завершение
+7 feature - характерная черта
+8 allow - разрешать
+9 permit - разрешать
+10 particular - специфический
+11 average - в среднем
+12 mistake - ошибка
+13 maintain - поддерживать
+14 relationship - отношение
+15 already - уже
+16 conditional - условный
+17 sign - подписать
