@@ -3,5 +3,6 @@ as - в качестве
 then - тогда
 these - эти
 those - те
+that - что
 
 
