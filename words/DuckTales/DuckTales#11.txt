@@ -10,3 +10,16 @@ https://www.youtube.com/watch?v=PnflfdBsNF4&list=PLOheXwuTHHNSUVBSyz0Ix840ibfooN
 8 trapdoor - люк
 9 away - прочь
 10 barnacles - ракушки
+11 wish - желание
+12 turkeys - индейки
+13 dozens - десятки
+14 vat - чан, ванна, бочка
+15 alone - в одиночестве
+16 enought - достаточно
+17 candy bar - конфета, шоколадный батончик
+18 explain - объяснять
+19 wealth - богатство
+20 being - существование 
+21 tough - жестче
+22 deserve - заслуживать
+23 square - квадрат

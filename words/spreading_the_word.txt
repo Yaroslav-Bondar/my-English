@@ -2,4 +2,9 @@
 2 general - обычный, общее
 3 host - хозяин
 4 into - в
-
+5 also - также
+6 almost - почти
+7 any - любой
+8 everything - все
+9 typically - обычно
+10 perform - выполнять
