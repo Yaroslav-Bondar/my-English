@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 0.9.2</generator>
+    <title>stalker2.kvtml</title>
+    <date>2021-10-23</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Column 1</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Column 2</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>along</text>
+      </translation>
+      <translation id="1">
+        <text>вместе</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>to take along</text>
+      </translation>
+      <translation id="1">
+        <text>взять с собой</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>foray</text>
+      </translation>
+      <translation id="1">
+        <text>набег</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>to treat</text>
+      </translation>
+      <translation id="1">
+        <text>относиться</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>if anything</text>
+      </translation>
+      <translation id="1">
+        <text>если что-нибудь</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>friendship</text>
+      </translation>
+      <translation id="1">
+        <text>Дружба</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>Stranger</text>
+      </translation>
+      <translation id="1">
+        <text>Чужой человек</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>to suffer</text>
+      </translation>
+      <translation id="1">
+        <text>страдать</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>shame</text>
+      </translation>
+      <translation id="1">
+        <text>стыд, досада</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>wish</text>
+      </translation>
+      <translation id="1">
+        <text>желание</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>to spare</text>
+      </translation>
+      <translation id="1">
+        <text>жалеть, щадить, беречь</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>to spare one `s life</text>
+      </translation>
+      <translation id="1">
+        <text>пощадить свою жизнь</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>unless</text>
+      </translation>
+      <translation id="1">
+        <text>пока не</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>i have to</text>
+      </translation>
+      <translation id="1">
+        <text>я должен</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>PDA</text>
+      </translation>
+      <translation id="1">
+        <text>КПК, наладонник PDA</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="16">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="17">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+  </entries>
+</kvtml>

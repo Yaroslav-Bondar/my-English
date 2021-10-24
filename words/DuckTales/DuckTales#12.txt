@@ -10,3 +10,27 @@
 10 same - тем же
 11 wish - желание
 12 handle - ручка
+13 releasing - освобождение
+14 harm - вред
+15 pleasure - удовольствие
+16 sweet - милая
+17 to release - выпустить
+18 eyewitness - очевидец
+19 coverage - покрытие
+20 capture - захватывать
+21 nefarious - гнусный
+22 trust - доверять
+23 deserve - заслуживать
+24 reward - награда
+25 incredible - невероятный
+26 revenge - месть
+27 merit - цена
+28 badges - значки
+29 such - такой
+30 survival - выживание
+31 law - закон
+32 enforcement - принуждение
+33 citizen - гражданин
+34 beware - остерегаться 
+
+
