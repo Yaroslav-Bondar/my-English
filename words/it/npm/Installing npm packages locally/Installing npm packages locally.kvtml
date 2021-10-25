@@ -3,7 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <date>2021-10-24</date>
+    <title>Installing npm packages locally.kvtml</title>
+    <date>2021-10-25</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -17,48 +18,92 @@
   </identifiers>
   <entries>
     <entry id="0">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>already</text>
+      </translation>
+      <translation id="1">
+        <text>уже</text>
+      </translation>
     </entry>
     <entry id="1">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>require</text>
+      </translation>
+      <translation id="1">
+        <text>требовать</text>
+      </translation>
     </entry>
     <entry id="2">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>exposed</text>
+      </translation>
+      <translation id="1">
+        <text>незащищенный</text>
+      </translation>
     </entry>
     <entry id="3">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>without</text>
+      </translation>
+      <translation id="1">
+        <text>без</text>
+      </translation>
     </entry>
     <entry id="4">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>being</text>
+      </translation>
+      <translation id="1">
+        <text>существование</text>
+      </translation>
     </entry>
     <entry id="5">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>preced</text>
+      </translation>
+      <translation id="1">
+        <text>предшествующий</text>
+      </translation>
     </entry>
     <entry id="6">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>caret</text>
+      </translation>
+      <translation id="1">
+        <text>каретка</text>
+      </translation>
     </entry>
     <entry id="7">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>pull</text>
+      </translation>
+      <translation id="1">
+        <text>тянуть</text>
+      </translation>
     </entry>
     <entry id="8">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>asterisks</text>
+      </translation>
+      <translation id="1">
+        <text>звездочки</text>
+      </translation>
     </entry>
     <entry id="9">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>indicate</text>
+      </translation>
+      <translation id="1">
+        <text>указывать</text>
+      </translation>
     </entry>
     <entry id="10">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>since</text>
+      </translation>
+      <translation id="1">
+        <text>поскольку</text>
+      </translation>
     </entry>
     <entry id="11">
       <translation id="0"/>
@@ -84,8 +129,43 @@
       <translation id="0"/>
       <translation id="1"/>
     </entry>
-    <entry id="17"/>
-    <entry id="18"/>
-    <entry id="19"/>
+    <entry id="17">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
   </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+    </container>
+  </lessons>
 </kvtml>
