@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 0.9.2</generator>
+    <title>it english words job.kvtml</title>
+    <date>2021-11-01</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Column 1</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Column 2</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>Proficient</text>
+      </translation>
+      <translation id="1">
+        <text>Опытный</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>experience</text>
+      </translation>
+      <translation id="1">
+        <text>опыт</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>defined</text>
+      </translation>
+      <translation id="1">
+        <text>определенный</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>Uncaught</text>
+      </translation>
+      <translation id="1">
+        <text>Непойманный</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>different</text>
+      </translation>
+      <translation id="1">
+        <text>другой</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>via</text>
+      </translation>
+      <translation id="1">
+        <text>с помощью</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>implementation</text>
+      </translation>
+      <translation id="1">
+        <text>реализация</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>Responsibilities</text>
+      </translation>
+      <translation id="1">
+        <text>Обязанности</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>Proceed</text>
+      </translation>
+      <translation id="1">
+        <text>Продолжить</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>estimations</text>
+      </translation>
+      <translation id="1">
+        <text>оценки</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>proper</text>
+      </translation>
+      <translation id="1">
+        <text>правильный</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>commitments</text>
+      </translation>
+      <translation id="1">
+        <text>обязательства</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>Perform</text>
+      </translation>
+      <translation id="1">
+        <text>Выполнять</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>At least</text>
+      </translation>
+      <translation id="1">
+        <text>По меньшей мере</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>At least 3 years</text>
+      </translation>
+      <translation id="1">
+        <text>Минимум 3 года</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>performant</text>
+      </translation>
+      <translation id="1">
+        <text>исполнитель</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>Ability</text>
+      </translation>
+      <translation id="1">
+        <text>Способность</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>oversee</text>
+      </translation>
+      <translation id="1">
+        <text>наблюдать</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>agile</text>
+      </translation>
+      <translation id="1">
+        <text>гибкий</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>Being</text>
+      </translation>
+      <translation id="1">
+        <text>Существование</text>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

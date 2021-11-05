@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 0.9.2</generator>
+    <title>Coffe Talk #6.kvtml</title>
+    <date>2021-10-28</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Column 1</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Column 2</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>to call it a day</text>
+      </translation>
+      <translation id="1">
+        <text>завершать день</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>it is getting there</text>
+      </translation>
+      <translation id="1">
+        <text>это приближается</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>juggling</text>
+      </translation>
+      <translation id="1">
+        <text>жонглирование</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>though</text>
+      </translation>
+      <translation id="1">
+        <text>хотя</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>to come clean</text>
+      </translation>
+      <translation id="1">
+        <text>очиститься</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>novel</text>
+      </translation>
+      <translation id="1">
+        <text>Роман</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>vacation</text>
+      </translation>
+      <translation id="1">
+        <text>отпуск</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>exactly</text>
+      </translation>
+      <translation id="1">
+        <text>точно</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>chopping</text>
+      </translation>
+      <translation id="1">
+        <text>рубка</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>probably</text>
+      </translation>
+      <translation id="1">
+        <text>наверное</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>care</text>
+      </translation>
+      <translation id="1">
+        <text>уход</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>take care</text>
+      </translation>
+      <translation id="1">
+        <text>заботиться</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>then</text>
+      </translation>
+      <translation id="1">
+        <text>тогда</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>careful</text>
+      </translation>
+      <translation id="1">
+        <text>осторожный</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>shift</text>
+      </translation>
+      <translation id="1">
+        <text>сдвиг</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>obviously</text>
+      </translation>
+      <translation id="1">
+        <text>очевидно</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>guess</text>
+      </translation>
+      <translation id="1">
+        <text>Угадай</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>ginger</text>
+      </translation>
+      <translation id="1">
+        <text>имбирь</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>bitter</text>
+      </translation>
+      <translation id="1">
+        <text>Горький</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>definitely</text>
+      </translation>
+      <translation id="1">
+        <text>определенно</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>boring</text>
+      </translation>
+      <translation id="1">
+        <text>скучный</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>after a while</text>
+      </translation>
+      <translation id="1">
+        <text>спустя некоторое время</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>expect</text>
+      </translation>
+      <translation id="1">
+        <text>ожидать</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>ads</text>
+      </translation>
+      <translation id="1">
+        <text>Объявления</text>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>anti-aging</text>
+      </translation>
+      <translation id="1">
+        <text>против старения</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>skin</text>
+      </translation>
+      <translation id="1">
+        <text>кожа</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>paler</text>
+      </translation>
+      <translation id="1">
+        <text>бледнее</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>annoying</text>
+      </translation>
+      <translation id="1">
+        <text>раздражающий</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>pointy</text>
+      </translation>
+      <translation id="1">
+        <text>острый</text>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>ear</text>
+      </translation>
+      <translation id="1">
+        <text>ухо</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="31">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="32">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="33">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>honorable</text>
+      </translation>
+      <translation id="1">
+        <text>почетный</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>evil</text>
+      </translation>
+      <translation id="1">
+        <text>зло</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>you travel lot</text>
+      </translation>
+      <translation id="1">
+        <text>ты много путешествуешь</text>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>youbefriended</text>
+      </translation>
+      <translation id="1">
+        <text>ты подружился</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>founder</text>
+      </translation>
+      <translation id="1">
+        <text>основатель</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>a startap founder</text>
+      </translation>
+      <translation id="1">
+        <text>основатель стартапа</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>assume</text>
+      </translation>
+      <translation id="1">
+        <text>предполагать</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>either</text>
+      </translation>
+      <translation id="1">
+        <text>или</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>boring</text>
+      </translation>
+      <translation id="1">
+        <text>скучный</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>after a while</text>
+      </translation>
+      <translation id="1">
+        <text>спустя некоторое время</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>enough</text>
+      </translation>
+      <translation id="1">
+        <text>достаточно</text>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="47">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+    </container>
+  </lessons>
+</kvtml>
