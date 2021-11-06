@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 0.9.2</generator>
+    <title>expressions with Have lesson 1.kvtml</title>
+    <date>2021-11-06</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Column 1</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Column 2</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>I/You/We/They - have</text>
+      </translation>
+      <translation id="1">
+        <text>to have with(I/You/We/They)</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>She/He/It - has</text>
+      </translation>
+      <translation id="1">
+        <text>to have with(She/He/It)</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>had</text>
+      </translation>
+      <translation id="1">
+        <text>to have with(All) past time</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>Yesterday I had an exam</text>
+      </translation>
+      <translation id="1">
+        <text>Вчера у меня был экзамен</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>I have a sister</text>
+      </translation>
+      <translation id="1">
+        <text>у меня есть сестра</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>have to = must</text>
+      </translation>
+      <translation id="1">
+        <text>have to = must</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>have to</text>
+      </translation>
+      <translation id="1">
+        <text>должен</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>I have to pay for my lunch</text>
+      </translation>
+      <translation id="1">
+        <text>Я должен заплатить за обед</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="9">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="10">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="11">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="12">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="13">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="14">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="15">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="16">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="17">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+    </container>
+  </lessons>
+</kvtml>
