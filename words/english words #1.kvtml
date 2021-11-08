@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>it english words.kvtml</title>
-    <date>2021-10-31</date>
+    <title>english words #1.kvtml</title>
+    <date>2021-11-08</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,31 +19,43 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>Uncaught</text>
+        <text>prefer</text>
       </translation>
       <translation id="1">
-        <text>Непойманный</text>
+        <text>предпочитать</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>defined</text>
+        <text>much</text>
       </translation>
       <translation id="1">
-        <text>определенный</text>
+        <text>много (?/-)</text>
       </translation>
     </entry>
     <entry id="2">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>She does not drink much coffee</text>
+      </translation>
+      <translation id="1">
+        <text>она не пьет много кофе</text>
+      </translation>
     </entry>
     <entry id="3">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>a lot</text>
+      </translation>
+      <translation id="1">
+        <text>много (+)</text>
+      </translation>
     </entry>
     <entry id="4">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>She drinks a lot of coffee</text>
+      </translation>
+      <translation id="1">
+        <text>она пьет много кофе</text>
+      </translation>
     </entry>
     <entry id="5">
       <translation id="0"/>
@@ -93,8 +105,17 @@
       <translation id="0"/>
       <translation id="1"/>
     </entry>
-    <entry id="17"/>
-    <entry id="18"/>
-    <entry id="19"/>
+    <entry id="17">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
   </entries>
 </kvtml>
