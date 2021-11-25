@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 0.9.2</generator>
+    <title>Detroit Become Human 1.kvtml</title>
+    <date>2021-11-21</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Column 1</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Column 2</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>determine</text>
+      </translation>
+      <translation id="1">
+        <text>определять</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>approach</text>
+      </translation>
+      <translation id="1">
+        <text>подход</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>if it falls, she falls</text>
+      </translation>
+      <translation id="1">
+        <text>если он падает, она падает</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>behaving</text>
+      </translation>
+      <translation id="1">
+        <text>поведение</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>I have not got a clue</text>
+      </translation>
+      <translation id="1">
+        <text>понятия не имею</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>recently</text>
+      </translation>
+      <translation id="1">
+        <text>в последнее время</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>is all that matters</text>
+      </translation>
+      <translation id="1">
+        <text>все, что имеет значение</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>either</text>
+      </translation>
+      <translation id="1">
+        <text>или</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>to take care</text>
+      </translation>
+      <translation id="1">
+        <text>заботиться</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>probability</text>
+      </translation>
+      <translation id="1">
+        <text>вероятность</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>hostage</text>
+      </translation>
+      <translation id="1">
+        <text>заложник</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>at all cost</text>
+      </translation>
+      <translation id="1">
+        <text>Любой ценой</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>to locate</text>
+      </translation>
+      <translation id="1">
+        <text>найти</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>clue</text>
+      </translation>
+      <translation id="1">
+        <text>Подсказка</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>ammunition</text>
+      </translation>
+      <translation id="1">
+        <text>боеприпасы</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>velocity</text>
+      </translation>
+      <translation id="1">
+        <text>скорость</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>capacity</text>
+      </translation>
+      <translation id="1">
+        <text>емкость</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>overall</text>
+      </translation>
+      <translation id="1">
+        <text>общий</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>hawk</text>
+      </translation>
+      <translation id="1">
+        <text>ястреб</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>barrel</text>
+      </translation>
+      <translation id="1">
+        <text>бочка</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>fdf</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="21">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+    </container>
+  </lessons>
+</kvtml>

@@ -4,7 +4,7 @@
   <information>
     <generator>Parley 2.1.0</generator>
     <title>english words #1.kvtml</title>
-    <date>2021-11-21</date>
+    <date>2021-11-11</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -47,14 +47,6 @@
       </translation>
       <translation id="1">
         <text>много (?)</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2021-11-11T22:02:47</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="2">
@@ -79,14 +71,6 @@
       </translation>
       <translation id="1">
         <text>много (+)</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2021-11-11T22:02:50</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="4">
@@ -196,84 +180,44 @@
       </translation>
     </entry>
     <entry id="10">
-      <translation id="0">
-        <text>such</text>
-      </translation>
-      <translation id="1">
-        <text>такой</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="11">
-      <translation id="0">
-        <text>improve</text>
-      </translation>
-      <translation id="1">
-        <text>улучшать</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="12">
-      <translation id="0">
-        <text>expir</text>
-      </translation>
-      <translation id="1">
-        <text>истекать</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="13">
-      <translation id="0">
-        <text>aware</text>
-      </translation>
-      <translation id="1">
-        <text>осведомленный</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="14">
-      <translation id="0">
-        <text>helmet</text>
-      </translation>
-      <translation id="1">
-        <text>шлем</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="15">
-      <translation id="0">
-        <text>blast off</text>
-      </translation>
-      <translation id="1">
-        <text>взлетать</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="16">
-      <translation id="0">
-        <text>hang on</text>
-      </translation>
-      <translation id="1">
-        <text>крепко держаться</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="17">
-      <translation id="0">
-        <text>recognize</text>
-      </translation>
-      <translation id="1">
-        <text>распознавать</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="18">
-      <translation id="0">
-        <text>already</text>
-      </translation>
-      <translation id="1">
-        <text>уже</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="19">
-      <translation id="0">
-        <text>edge</text>
-      </translation>
-      <translation id="1">
-        <text>край</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="20">
       <translation id="0"/>

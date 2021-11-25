@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 0.9.2</generator>
+    <title>Present Simple vs Present Continuous (Units 3-4) #2.kvtml</title>
+    <date>2021-11-15</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Column 1</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Column 2</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>I need to go</text>
+      </translation>
+      <translation id="1">
+        <text>мне нужно идти</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>I have to go</text>
+      </translation>
+      <translation id="1">
+        <text>мне надо идти</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>look feel</text>
+      </translation>
+      <translation id="1">
+        <text>You can use the present simple or continuous to say how somebody looks or feels now Вы можете использовать настоящее, простое или продолжительное, чтобы сказать, как кто-то выглядит или чувствует себя сейчас.</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>You look well today or You are looking weel today</text>
+      </translation>
+      <translation id="1">
+        <text>Вы хорошо выглядите сегодня или вы хорошо выглядите сегодня</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>How do you feel now? or How are you feeling now?</text>
+      </translation>
+      <translation id="1">
+        <text>Как ты себя чувствуешь сейчас? или как ты себя чувствуешь сейчас?</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>What do you think about this movie?</text>
+      </translation>
+      <translation id="1">
+        <text>Что ты думаешь об этом фильме?</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>I am thinking of moving to another city</text>
+      </translation>
+      <translation id="1">
+        <text>Подумываю переехать в другой город</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>What are you thinking about?</text>
+      </translation>
+      <translation id="1">
+        <text>О чем ты думаешь?</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>Do you see that bag?</text>
+      </translation>
+      <translation id="1">
+        <text>Вы видите эту сумку?</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>You look tired</text>
+      </translation>
+      <translation id="1">
+        <text>Ты выглядишь усталым</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="11">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="12">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="13">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="14">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="15">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="16">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="17">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+    </container>
+  </lessons>
+</kvtml>

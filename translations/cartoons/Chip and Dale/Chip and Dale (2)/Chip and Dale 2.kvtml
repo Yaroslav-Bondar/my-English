@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>inglish words from it_1.kvtml</title>
-    <date>2021-11-08</date>
+    <title>Chip and Dale (2).kvtml</title>
+    <date>2021-11-17</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,134 +19,181 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>received</text>
+        <text>rescue</text>
       </translation>
       <translation id="1">
-        <text>полученный</text>
+        <text>спасать</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>resolve</text>
+        <text>to the rescue</text>
       </translation>
       <translation id="1">
-        <text>решать</text>
+        <text>в помощь</text>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
-        <text>reject</text>
+        <text>wind</text>
       </translation>
       <translation id="1">
-        <text>отклонять</text>
+        <text>ветер</text>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>pending</text>
+        <text>updraft</text>
       </translation>
       <translation id="1">
-        <text>в ожидании</text>
+        <text>восходящий поток</text>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
-        <text>necessary</text>
+        <text>hurry</text>
       </translation>
       <translation id="1">
-        <text>необходимо</text>
+        <text>торопиться</text>
       </translation>
     </entry>
     <entry id="5">
       <translation id="0">
-        <text>expression</text>
+        <text>to lug</text>
       </translation>
       <translation id="1">
-        <text>выражение</text>
+        <text>тащить</text>
       </translation>
     </entry>
     <entry id="6">
       <translation id="0">
-        <text>solution</text>
+        <text>how come</text>
       </translation>
       <translation id="1">
-        <text>решение</text>
+        <text>как так получилось</text>
       </translation>
     </entry>
     <entry id="7">
       <translation id="0">
-        <text>modify</text>
+        <text>fearless</text>
       </translation>
       <translation id="1">
-        <text>модифицировать</text>
+        <text>бесстрашный</text>
       </translation>
     </entry>
     <entry id="8">
       <translation id="0">
-        <text>initial</text>
+        <text>copilot</text>
       </translation>
       <translation id="1">
-        <text>исходный</text>
+        <text>второй пилот</text>
       </translation>
     </entry>
     <entry id="9">
       <translation id="0">
-        <text>mastering</text>
+        <text>to handle something</text>
       </translation>
       <translation id="1">
-        <text>освоение</text>
+        <text>справиться с чем-то</text>
       </translation>
     </entry>
     <entry id="10">
       <translation id="0">
-        <text>asynchronous</text>
+        <text>make way</text>
       </translation>
       <translation id="1">
-        <text>асинхронный</text>
+        <text>уступать дорогу</text>
       </translation>
     </entry>
     <entry id="11">
       <translation id="0">
-        <text>bind</text>
+        <text>furball</text>
       </translation>
       <translation id="1">
-        <text>связывать</text>
+        <text>пушистый комок</text>
       </translation>
     </entry>
     <entry id="12">
       <translation id="0">
-        <text>binding</text>
+        <text>takeoff</text>
       </translation>
       <translation id="1">
-        <text>привязка</text>
+        <text>снять</text>
       </translation>
     </entry>
     <entry id="13">
       <translation id="0">
-        <text>change</text>
+        <text>to take off</text>
       </translation>
       <translation id="1">
-        <text>изменение</text>
+        <text>взлетать</text>
       </translation>
     </entry>
     <entry id="14">
       <translation id="0">
-        <text>handler</text>
+        <text>helmet</text>
       </translation>
       <translation id="1">
-        <text>обработчик</text>
+        <text>шлем</text>
       </translation>
     </entry>
     <entry id="15">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>blast off</text>
+      </translation>
+      <translation id="1">
+        <text>взлетать</text>
+      </translation>
     </entry>
     <entry id="16">
+      <translation id="0">
+        <text>hang on</text>
+      </translation>
+      <translation id="1">
+        <text>крепко держаться</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>chipmunk</text>
+      </translation>
+      <translation id="1">
+        <text>бурундук</text>
+      </translation>
+    </entry>
+    <entry id="18">
       <translation id="0"/>
       <translation id="1"/>
     </entry>
-    <entry id="17"/>
-    <entry id="18"/>
-    <entry id="19"/>
+    <entry id="19">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
   </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+    </container>
+  </lessons>
 </kvtml>

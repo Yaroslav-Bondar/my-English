@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>(Unit 1) - Present Continuous.kvtml</title>
-    <date>2021-11-01</date>
+    <title>Detroit Become Human 1_part_2.kvtml</title>
+    <date>2021-11-23</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,99 +19,83 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>I am driving now</text>
+        <text>estimated</text>
       </translation>
       <translation id="1">
-        <text>Я сейчас за рулем</text>
+        <text>по оценкам</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>You are making too much noise</text>
+        <text>rewind</text>
       </translation>
       <translation id="1">
-        <text>Вы делаете слишком много шума</text>
+        <text>перемотка</text>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
-        <text>She is trying to learn English</text>
+        <text>toy</text>
       </translation>
       <translation id="1">
-        <text>Она пытается выучить английский</text>
+        <text>игрушка</text>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>He is having a shower</text>
+        <text>fault</text>
       </translation>
       <translation id="1">
-        <text>Он принимает душ</text>
+        <text>вина</text>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
-        <text>We are going out now</text>
+        <text>anymore</text>
       </translation>
       <translation id="1">
-        <text>Мы выходим сейчас</text>
+        <text>больше</text>
       </translation>
     </entry>
     <entry id="5">
       <translation id="0">
-        <text>They are enjoying the party</text>
+        <text>refuse</text>
       </translation>
       <translation id="1">
-        <text>они наслаждаются вечеринкой</text>
+        <text>мусор</text>
       </translation>
     </entry>
     <entry id="6">
       <translation id="0">
-        <text>We are building our own house</text>
+        <text>slip</text>
       </translation>
       <translation id="1">
-        <text>мы строим собственный дом</text>
+        <text>соскальзывать</text>
       </translation>
     </entry>
     <entry id="7">
       <translation id="0">
-        <text>He is working hard this year</text>
+        <text>these emotions you are feeling are just errors in your software</text>
       </translation>
       <translation id="1">
-        <text>он много работает в этом году</text>
+        <text>эти эмоции, которые вы испытываете, - это просто ошибки в вашем программном обеспечении</text>
       </translation>
     </entry>
     <entry id="8">
-      <translation id="0">
-        <text>Her English is getting better</text>
-      </translation>
-      <translation id="1">
-        <text>ее английский становится лучше</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="9">
-      <translation id="0">
-        <text>The weather is changing today</text>
-      </translation>
-      <translation id="1">
-        <text>Погода сегодня меняется</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="10">
-      <translation id="0">
-        <text>I am begining to like my job</text>
-      </translation>
-      <translation id="1">
-        <text>Мне начинает нравиться моя работа</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="11">
-      <translation id="0">
-        <text>What is going on ?</text>
-      </translation>
-      <translation id="1">
-        <text>что здесь происходит ?</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="12">
       <translation id="0"/>
