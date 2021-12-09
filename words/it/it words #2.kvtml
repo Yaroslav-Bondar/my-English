@@ -4,7 +4,7 @@
   <information>
     <generator>kwordquiz 0.9.2</generator>
     <title>it words #2.kvtml</title>
-    <date>2021-11-21</date>
+    <date>2021-11-30</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -98,42 +98,86 @@
       </translation>
     </entry>
     <entry id="10">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>implementation</text>
+      </translation>
+      <translation id="1">
+        <text>реализация</text>
+      </translation>
     </entry>
     <entry id="11">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>responsive</text>
+      </translation>
+      <translation id="1">
+        <text>отзывчивый</text>
+      </translation>
     </entry>
     <entry id="12">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>flexible</text>
+      </translation>
+      <translation id="1">
+        <text>гибкий</text>
+      </translation>
     </entry>
     <entry id="13">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>relative</text>
+      </translation>
+      <translation id="1">
+        <text>относительный</text>
+      </translation>
     </entry>
     <entry id="14">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>percent</text>
+      </translation>
+      <translation id="1">
+        <text>процент</text>
+      </translation>
     </entry>
     <entry id="15">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>define</text>
+      </translation>
+      <translation id="1">
+        <text>определять</text>
+      </translation>
     </entry>
     <entry id="16">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>to handle</text>
+      </translation>
+      <translation id="1">
+        <text>обрабатывать</text>
+      </translation>
     </entry>
     <entry id="17">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>downgrade</text>
+      </translation>
+      <translation id="1">
+        <text>понизить рейтинг</text>
+      </translation>
     </entry>
     <entry id="18">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>achievements</text>
+      </translation>
+      <translation id="1">
+        <text>Достижения</text>
+      </translation>
     </entry>
     <entry id="19">
+      <translation id="0">
+        <text>declare</text>
+      </translation>
+      <translation id="1">
+        <text>объявлять</text>
+      </translation>
+    </entry>
+    <entry id="20">
       <translation id="0"/>
       <translation id="1"/>
     </entry>
@@ -162,6 +206,7 @@
       <entry id="17"/>
       <entry id="18"/>
       <entry id="19"/>
+      <entry id="20"/>
     </container>
   </lessons>
 </kvtml>

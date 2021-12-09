@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>english words #2.kvtml</title>
-    <date>2021-12-01</date>
+    <title>english words #4.kvtml</title>
+    <date>2021-12-08</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,165 +19,117 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>several</text>
+        <text>confusion</text>
       </translation>
       <translation id="1">
-        <text>несколько</text>
+        <text>путаница</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>someone</text>
+        <text>assume</text>
       </translation>
       <translation id="1">
-        <text>кто-то</text>
+        <text>предполагать</text>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
-        <text>remember</text>
+        <text>within</text>
       </translation>
       <translation id="1">
-        <text>помнить</text>
+        <text>в</text>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>learn</text>
+        <text>brief</text>
       </translation>
       <translation id="1">
-        <text>учиться</text>
+        <text>краткий</text>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
-        <text>learning</text>
+        <text>via</text>
       </translation>
       <translation id="1">
-        <text>обучение</text>
+        <text>с помощью</text>
       </translation>
     </entry>
     <entry id="5">
       <translation id="0">
-        <text>happened</text>
+        <text>omitted</text>
       </translation>
       <translation id="1">
-        <text>произошло</text>
+        <text>опущено</text>
       </translation>
     </entry>
     <entry id="6">
       <translation id="0">
-        <text>anything</text>
+        <text>perhaps</text>
       </translation>
       <translation id="1">
-        <text>что-нибудь</text>
+        <text>возможно</text>
       </translation>
     </entry>
     <entry id="7">
       <translation id="0">
-        <text>hungry</text>
+        <text>at the time</text>
       </translation>
       <translation id="1">
-        <text>голодный</text>
+        <text>в то время</text>
       </translation>
     </entry>
     <entry id="8">
       <translation id="0">
-        <text>angry</text>
+        <text>especially</text>
       </translation>
       <translation id="1">
-        <text>злой</text>
+        <text>особенно</text>
       </translation>
     </entry>
     <entry id="9">
-      <translation id="0">
-        <text>able</text>
-      </translation>
-      <translation id="1">
-        <text>способный</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="10">
-      <translation id="0">
-        <text>properly</text>
-      </translation>
-      <translation id="1">
-        <text>должным образом</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="11">
-      <translation id="0">
-        <text>belong</text>
-      </translation>
-      <translation id="1">
-        <text>принадлежать</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="12">
-      <translation id="0">
-        <text>able</text>
-      </translation>
-      <translation id="1">
-        <text>способный</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="13">
-      <translation id="0">
-        <text>therefore</text>
-      </translation>
-      <translation id="1">
-        <text>Поэтому</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="14">
-      <translation id="0">
-        <text>avoid</text>
-      </translation>
-      <translation id="1">
-        <text>избегать</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="15">
-      <translation id="0">
-        <text>wish</text>
-      </translation>
-      <translation id="1">
-        <text>желание</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="16">
-      <translation id="0">
-        <text>unlike</text>
-      </translation>
-      <translation id="1">
-        <text>В отличие от</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="17">
-      <translation id="0">
-        <text>likely</text>
-      </translation>
-      <translation id="1">
-        <text>вероятно</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="18">
-      <translation id="0">
-        <text>alone</text>
-      </translation>
-      <translation id="1">
-        <text>в одиночестве</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="19">
-      <translation id="0">
-        <text>awesome</text>
-      </translation>
-      <translation id="1">
-        <text>классно</text>
-      </translation>
-    </entry>
-    <entry id="20">
       <translation id="0"/>
       <translation id="1"/>
     </entry>
@@ -206,7 +158,6 @@
       <entry id="17"/>
       <entry id="18"/>
       <entry id="19"/>
-      <entry id="20"/>
     </container>
   </lessons>
 </kvtml>

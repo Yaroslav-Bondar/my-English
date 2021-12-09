@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>Present Simple vs Present Continuous (Units 3-4) #2.kvtml</title>
-    <date>2021-11-27</date>
+    <title>it words #4.kvtml</title>
+    <date>2021-12-08</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,91 +19,67 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>I need to go</text>
+        <text>explain</text>
       </translation>
       <translation id="1">
-        <text>мне нужно идти</text>
+        <text>объяснять</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>I have to go</text>
+        <text>browse</text>
       </translation>
       <translation id="1">
-        <text>мне надо идти</text>
+        <text>просматривать</text>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
-        <text>look feel</text>
+        <text>item</text>
       </translation>
       <translation id="1">
-        <text>You can use the present simple or continuous to say how somebody looks or feels now Вы можете использовать настоящее, простое или продолжительное, чтобы сказать, как кто-то выглядит или чувствует себя сейчас.</text>
+        <text>элемент</text>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>You look well today or You are looking weel today</text>
+        <text>access</text>
       </translation>
       <translation id="1">
-        <text>Вы хорошо выглядите сегодня или вы хорошо выглядите сегодня</text>
+        <text>доступ</text>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
-        <text>How do you feel now? or How are you feeling now?</text>
+        <text>instead</text>
       </translation>
       <translation id="1">
-        <text>Как ты себя чувствуешь сейчас? или как ты себя чувствуешь сейчас?</text>
+        <text>вместо</text>
       </translation>
     </entry>
     <entry id="5">
-      <translation id="0">
-        <text>What do you think about this movie?</text>
-      </translation>
-      <translation id="1">
-        <text>Что ты думаешь об этом фильме?</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="6">
-      <translation id="0">
-        <text>I am thinking of moving to another city</text>
-      </translation>
-      <translation id="1">
-        <text>Подумываю переехать в другой город</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="7">
-      <translation id="0">
-        <text>What are you thinking about?</text>
-      </translation>
-      <translation id="1">
-        <text>О чем ты думаешь?</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="8">
-      <translation id="0">
-        <text>Do you see that bag?</text>
-      </translation>
-      <translation id="1">
-        <text>Вы видите эту сумку?</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="9">
-      <translation id="0">
-        <text>You look tired</text>
-      </translation>
-      <translation id="1">
-        <text>Ты выглядишь усталым</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="10">
-      <translation id="0">
-        <text>pieces</text>
-      </translation>
-      <translation id="1">
-        <text>шт</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="11">
       <translation id="0"/>

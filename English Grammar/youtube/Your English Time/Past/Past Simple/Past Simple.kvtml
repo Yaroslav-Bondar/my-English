@@ -4,7 +4,7 @@
   <information>
     <generator>kwordquiz 0.9.2</generator>
     <title>Past Simple.kvtml</title>
-    <date>2021-11-25</date>
+    <date>2021-11-29</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -50,20 +50,36 @@
       </translation>
     </entry>
     <entry id="4">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>pass</text>
+      </translation>
+      <translation id="1">
+        <text>проходить</text>
+      </translation>
     </entry>
     <entry id="5">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>few</text>
+      </translation>
+      <translation id="1">
+        <text>немного</text>
+      </translation>
     </entry>
     <entry id="6">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>abroad</text>
+      </translation>
+      <translation id="1">
+        <text>за рубеж</text>
+      </translation>
     </entry>
     <entry id="7">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>discovered</text>
+      </translation>
+      <translation id="1">
+        <text>обнаруженный</text>
+      </translation>
     </entry>
     <entry id="8">
       <translation id="0"/>

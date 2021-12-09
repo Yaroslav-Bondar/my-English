@@ -4,7 +4,7 @@
   <information>
     <generator>kwordquiz 0.9.2</generator>
     <title>inglish words from it_1.kvtml</title>
-    <date>2021-11-21</date>
+    <date>2021-12-01</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -154,14 +154,30 @@
       </translation>
     </entry>
     <entry id="17">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>grain</text>
+      </translation>
+      <translation id="1">
+        <text>зерно</text>
+      </translation>
     </entry>
     <entry id="18">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>approach</text>
+      </translation>
+      <translation id="1">
+        <text>подход</text>
+      </translation>
     </entry>
     <entry id="19">
+      <translation id="0">
+        <text>caution</text>
+      </translation>
+      <translation id="1">
+        <text>осторожность</text>
+      </translation>
+    </entry>
+    <entry id="20">
       <translation id="0"/>
       <translation id="1"/>
     </entry>
@@ -190,6 +206,7 @@
       <entry id="17"/>
       <entry id="18"/>
       <entry id="19"/>
+      <entry id="20"/>
     </container>
   </lessons>
 </kvtml>
