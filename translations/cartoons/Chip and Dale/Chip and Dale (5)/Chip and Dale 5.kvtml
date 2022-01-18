@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>it words #4.kvtml</title>
-    <date>2021-12-08</date>
+    <title>Chip and Dale 5.kvtml</title>
+    <date>2022-01-04</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,83 +19,123 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>explain</text>
+        <text>tough</text>
       </translation>
       <translation id="1">
-        <text>объяснять</text>
+        <text>жесткий</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>browse</text>
+        <text>to grab</text>
       </translation>
       <translation id="1">
-        <text>просматривать</text>
+        <text>Хватать</text>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
-        <text>item</text>
+        <text>i expect you to</text>
       </translation>
       <translation id="1">
-        <text>элемент</text>
+        <text>я ожидаю, что ты ...</text>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>access</text>
+        <text>dependable</text>
       </translation>
       <translation id="1">
-        <text>доступ</text>
+        <text>надежный</text>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
-        <text>instead</text>
+        <text>it is time</text>
       </translation>
       <translation id="1">
-        <text>вместо</text>
+        <text>время пришло</text>
       </translation>
     </entry>
     <entry id="5">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>to pay a visit</text>
+      </translation>
+      <translation id="1">
+        <text>нанести визит</text>
+      </translation>
     </entry>
     <entry id="6">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>to compare</text>
+      </translation>
+      <translation id="1">
+        <text>сравнивать</text>
+      </translation>
     </entry>
     <entry id="7">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>speaking of</text>
+      </translation>
+      <translation id="1">
+        <text>кстати о, к слову о</text>
+      </translation>
     </entry>
     <entry id="8">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>to turn in</text>
+      </translation>
+      <translation id="1">
+        <text>сдать</text>
+      </translation>
     </entry>
     <entry id="9">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>evidance</text>
+      </translation>
+      <translation id="1">
+        <text>свидетельство</text>
+      </translation>
     </entry>
     <entry id="10">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>scared</text>
+      </translation>
+      <translation id="1">
+        <text>напугана</text>
+      </translation>
     </entry>
     <entry id="11">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>defeated</text>
+      </translation>
+      <translation id="1">
+        <text>побежден</text>
+      </translation>
     </entry>
     <entry id="12">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>crook</text>
+      </translation>
+      <translation id="1">
+        <text>мошенник</text>
+      </translation>
     </entry>
     <entry id="13">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>chased</text>
+      </translation>
+      <translation id="1">
+        <text>преследовали</text>
+      </translation>
     </entry>
     <entry id="14">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>quite</text>
+      </translation>
+      <translation id="1">
+        <text>довольно</text>
+      </translation>
     </entry>
     <entry id="15">
       <translation id="0"/>

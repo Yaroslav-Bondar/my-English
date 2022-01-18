@@ -3,8 +3,8 @@
 <kvtml version="2.0">
   <information>
     <generator>kwordquiz 0.9.2</generator>
-    <title>Present Simple Unit 2.kvtml</title>
-    <date>2021-12-10</date>
+    <title>it words 7.kvtml</title>
+    <date>2022-01-14</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -19,139 +19,163 @@
   <entries>
     <entry id="0">
       <translation id="0">
-        <text>-s/-ss/-sh/-ch/-x</text>
+        <text>axis</text>
       </translation>
       <translation id="1">
-        <text>+ (He/She/It) add ES when the word ends in</text>
+        <text>ось</text>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
-        <text>He/She/It searches</text>
+        <text>literally</text>
       </translation>
       <translation id="1">
-        <text>search</text>
+        <text>в прямом смысле</text>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
-        <text>He/She/It washes</text>
+        <text>multiple</text>
       </translation>
       <translation id="1">
-        <text>wash</text>
+        <text>несколько</text>
       </translation>
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>ie + s</text>
+        <text>maintain</text>
       </translation>
       <translation id="1">
-        <text>+ (He/She/It) when the word ends in Y changes</text>
+        <text>поддерживать</text>
       </translation>
     </entry>
     <entry id="4">
       <translation id="0">
-        <text>He/She/It studies</text>
+        <text>precision</text>
       </translation>
       <translation id="1">
-        <text>study</text>
+        <text>точность</text>
       </translation>
     </entry>
     <entry id="5">
       <translation id="0">
-        <text>He/She/It does/goes</text>
+        <text>ancestor</text>
       </translation>
       <translation id="1">
-        <text>+ (He/She/It) do/go</text>
+        <text>предок</text>
       </translation>
     </entry>
     <entry id="6">
       <translation id="0">
-        <text>do I/We/You/They work/drive/do ?</text>
+        <text>passed</text>
       </translation>
       <translation id="1">
-        <text>? I/We/You/They</text>
+        <text>прошедший</text>
       </translation>
     </entry>
     <entry id="7">
       <translation id="0">
-        <text>does He/She/It work/drive/do ?</text>
+        <text>submit</text>
       </translation>
       <translation id="1">
-        <text>? He/She/It</text>
+        <text>Отправить</text>
       </translation>
     </entry>
     <entry id="8">
       <translation id="0">
-        <text>I/We/You/They work/drive/do</text>
+        <text>placeholder</text>
       </translation>
       <translation id="1">
-        <text>+ I/We/You/They</text>
+        <text>заполнитель</text>
       </translation>
     </entry>
     <entry id="9">
       <translation id="0">
-        <text>He/She/it drives/works/does</text>
+        <text>nested</text>
       </translation>
       <translation id="1">
-        <text>+ He/She/It</text>
+        <text>вложенный</text>
       </translation>
     </entry>
     <entry id="10">
       <translation id="0">
-        <text>I/We/You/They do not work/drive/do</text>
+        <text>specified</text>
       </translation>
       <translation id="1">
-        <text>- I/We/You/They</text>
+        <text>указанный</text>
       </translation>
     </entry>
     <entry id="11">
       <translation id="0">
-        <text>He/She/It does not work/drive/do</text>
+        <text>force a reboot</text>
       </translation>
       <translation id="1">
-        <text>- He/She/It</text>
+        <text>принудительно перезагрузить</text>
       </translation>
     </entry>
     <entry id="12">
       <translation id="0">
-        <text>What does this word mean ?</text>
+        <text>restrict</text>
       </translation>
       <translation id="1">
-        <text>Что значит это слово ? (? He/She/It)</text>
+        <text>ограничивать</text>
       </translation>
     </entry>
     <entry id="13">
       <translation id="0">
-        <text>I do not go away very often (I/We/You/They do not work/drive/do)</text>
+        <text>vulnerability</text>
       </translation>
       <translation id="1">
-        <text>Я не уезжаю очень часто (- I/We/You/They)</text>
+        <text>уязвимость</text>
       </translation>
     </entry>
     <entry id="14">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>exploiting</text>
+      </translation>
+      <translation id="1">
+        <text>эксплуатация</text>
+      </translation>
     </entry>
     <entry id="15">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>match</text>
+      </translation>
+      <translation id="1">
+        <text>совпадение</text>
+      </translation>
     </entry>
     <entry id="16">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>padding</text>
+      </translation>
+      <translation id="1">
+        <text>набивка</text>
+      </translation>
     </entry>
     <entry id="17">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>particular</text>
+      </translation>
+      <translation id="1">
+        <text>конкретный</text>
+      </translation>
     </entry>
     <entry id="18">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>comput</text>
+      </translation>
+      <translation id="1">
+        <text>вычислить</text>
+      </translation>
     </entry>
     <entry id="19">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>unless</text>
+      </translation>
+      <translation id="1">
+        <text>Пока не</text>
+      </translation>
     </entry>
   </entries>
   <lessons>

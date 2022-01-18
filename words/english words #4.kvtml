@@ -4,7 +4,7 @@
   <information>
     <generator>kwordquiz 0.9.2</generator>
     <title>english words #4.kvtml</title>
-    <date>2021-12-08</date>
+    <date>2021-12-28</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -90,48 +90,92 @@
       </translation>
     </entry>
     <entry id="9">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>in no time</text>
+      </translation>
+      <translation id="1">
+        <text>вмиг</text>
+      </translation>
     </entry>
     <entry id="10">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>those</text>
+      </translation>
+      <translation id="1">
+        <text>те</text>
+      </translation>
     </entry>
     <entry id="11">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>whose</text>
+      </translation>
+      <translation id="1">
+        <text>чей</text>
+      </translation>
     </entry>
     <entry id="12">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>opportunity</text>
+      </translation>
+      <translation id="1">
+        <text>возможность</text>
+      </translation>
     </entry>
     <entry id="13">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>here is</text>
+      </translation>
+      <translation id="1">
+        <text>Вот</text>
+      </translation>
     </entry>
     <entry id="14">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>literally</text>
+      </translation>
+      <translation id="1">
+        <text>в прямом смысле</text>
+      </translation>
     </entry>
     <entry id="15">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>inject</text>
+      </translation>
+      <translation id="1">
+        <text>вводить</text>
+      </translation>
     </entry>
     <entry id="16">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>self</text>
+      </translation>
+      <translation id="1">
+        <text>себя</text>
+      </translation>
     </entry>
     <entry id="17">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>few</text>
+      </translation>
+      <translation id="1">
+        <text>немного</text>
+      </translation>
     </entry>
     <entry id="18">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>from there</text>
+      </translation>
+      <translation id="1">
+        <text>Оттуда</text>
+      </translation>
     </entry>
     <entry id="19">
-      <translation id="0"/>
-      <translation id="1"/>
+      <translation id="0">
+        <text>self-assessments</text>
+      </translation>
+      <translation id="1">
+        <text>самооценка</text>
+      </translation>
     </entry>
   </entries>
   <lessons>
